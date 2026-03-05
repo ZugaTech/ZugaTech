@@ -69,10 +69,6 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="48" height="48" />
 <br>Flutter
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" />
-<br>Dart
-</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -141,6 +137,12 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="48" height="48" />
 <br>Postman
 </td>
+<div align="center">
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" />
+<br>Dart
+<div align="center">
+</td>
 </tr>
 </table>
 
@@ -149,5 +151,5 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 ---
 
 <div align="center">
-<sub>Nothing is impossible to achieve when you put your mind to it.</sub>
+<sub>Pain is Fuel , Never Stop Moving.</sub>
 </div>
