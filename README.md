@@ -145,5 +145,5 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 ---
 
 <div align="center">
-<sub>Turn all your pain into FUEL and keep moving .</sub>
+<sub>Nothing is impossible to achieve when you put your mind to it.</sub>
 </div>
