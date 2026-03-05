@@ -50,7 +50,7 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 <br>TypeScript
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" width="48" height="48" />
 <br>Rust
 </td>
 <td align="center" width="96">
@@ -68,6 +68,10 @@ Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama)
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" width="48" height="48" />
 <br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" width="48" height="48" />
+<br>Dart
 </td>
 </tr>
 <tr>
