@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<h3>What I Do</h3>
+### What I Do
 </div>
 
 <br/>
@@ -15,16 +15,18 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>Fullstack Engineering</h4>
-Building scalable APIs and end-to-end architectures using Python, TypeScript, and React. Focus on high-performance systems and clean integration.
-<br/>
-<code>React · TypeScript · Python · FastAPI · Node.js · Flutter</code>
+#### Fullstack Engineering
+Designing and building scalable APIs, microservices, and end-to-end architectures using Python, TypeScript, and React for high-performance applications.
+```
+React · TypeScript · Python · FastAPI · Node.js · Flutter
+```
 </td>
 <td width="50%" valign="top">
-<h4>AI Engineering</h4>
-Developing intelligent systems and RAG pipelines. Working with LLMs and autonomous workflows to solve practical problems at scale.
-<br/>
-<code>AI Agents · LLMs · RAG · Fine-tuning · ChromaDB</code>
+#### AI Engineering
+Building intelligent systems and exploring AI agents—from RAG pipelines to autonomous workflows that solve real-world problems at scale.
+```
+AI Agents · LLMs · RAG · Fine-tuning · ChromaDB
+```
 </td>
 </tr>
 </table>
@@ -32,9 +34,80 @@ Developing intelligent systems and RAG pipelines. Working with LLMs and autonomo
 ---
 
 <div align="center">
-<h3>Stack</h3>
+### Stack
 <br>
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,fastapi,nodejs,flutter,docker,postgres,mongodb,redis,bash,github,linux,aws&perline=8" alt="Stack" />
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" height="48" />
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="48" height="48" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="48" height="48" />
+<br>Bash
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br>REST API
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
