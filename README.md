@@ -22,7 +22,7 @@ Building scalable APIs and end-to-end architectures using Python, TypeScript, an
 </td>
 <td width="50%" valign="top">
 <h4>AI Engineering</h4>
-Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama), LangChain, and LlamaIndex to solve practical problems at scale.
+Developing intelligent systems and RAG pipelines. Working with LLMs (GPT, Llama), LangChain, LlamaIndex, etc - to solve practical problems at scale.
 <br/>
 <code>AI Agents · LLMs · RAG · Pinecone · Weaviate · ChromaDB</code>
 </td>
